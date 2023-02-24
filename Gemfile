@@ -43,6 +43,6 @@ group :development, :test do
   gem 'spring'
 
   gem 'ruby_audit'
-  gem 'spektr'
+#HID:  gem 'spektr'
   gem 'simplecov'
 end
