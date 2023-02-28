@@ -6,7 +6,7 @@ gem 'rails', '7.0.4.2'
 #HID: gem 'pg'
 gem 'sqlite3'
 # Use SCSS for stylesheets
-gem 'sass-rails'
+gem 'sassc-rails'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier'
 # Use CoffeeScript for .coffee assets and views
