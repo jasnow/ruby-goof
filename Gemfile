@@ -43,8 +43,7 @@ group :development, :test do
   gem 'spring'
 
   gem 'ruby_audit'
-  #2/24/2023: Commented out/broken: `const_get': uninitialized 
+  #   gem 'spektr' #2/24/2023: Commented out/broken: `const_get': uninitialized 
   #           constant Spektr::CoreExt::String (NameError)
-  #   gem 'spektr'
   gem 'simplecov'
 end
