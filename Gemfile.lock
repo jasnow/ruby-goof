@@ -92,7 +92,7 @@ GEM
       temple (>= 0.8.2)
       thor
       tilt
-    i18n (1.13.0)
+    i18n (1.14.0)
       concurrent-ruby (~> 1.0)
     jbuilder (2.11.5)
       actionview (>= 5.0.0)
@@ -249,7 +249,7 @@ GEM
       execjs (>= 0.3.0, < 3)
     unicode-display_width (2.4.2)
     unicode_utils (1.4.0)
-    view_component (3.0.0)
+    view_component (3.1.0)
       activesupport (>= 5.2.0, < 8.0)
       concurrent-ruby (~> 1.0)
       method_source (~> 1.0)
