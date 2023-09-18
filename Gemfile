@@ -2,6 +2,11 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '7.0.8'
+
+gem 'base64'
+gem 'bigdecimal'
+gem 'mutex_m'
+
 # Use postgresql as the database for Active Record
 #HID: gem 'pg'
 gem 'sqlite3'
