@@ -19,6 +19,6 @@ module RubyRailsSample
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
 
-    config.active_record.legacy_connection_handling = false
+    config.active_support.cache_format_version = 7.0
   end
 end
