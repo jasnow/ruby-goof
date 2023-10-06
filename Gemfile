@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '7.1.0'
+gem 'rails', '7.1.0', git: "https://github.com/rails/rails", branch: "7-1-stable"
 
 gem 'base64'
 gem 'bigdecimal'
