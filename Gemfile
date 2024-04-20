@@ -9,7 +9,7 @@ gem 'mutex_m'
 
 # Use postgresql as the database for Active Record
 #HID: gem 'pg'
-gem 'sqlite3'
+gem 'sqlite3', '~> 1.4'
 # Use SCSS for stylesheets
 gem 'sassc-rails'
 # Use Uglifier as compressor for JavaScript assets
