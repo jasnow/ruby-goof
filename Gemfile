@@ -6,6 +6,7 @@ gem 'rails', '7.1.3.3'
 gem 'base64'
 gem 'bigdecimal'
 gem 'mutex_m'
+gem 'ostruct'
 
 # Use postgresql as the database for Active Record
 #HID: gem 'pg'
