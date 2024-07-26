@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '7.2.0.beta3'
-gem 'net-smtp'
 
 gem 'base64'
 gem 'bigdecimal'
