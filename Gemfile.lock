@@ -299,6 +299,7 @@ DEPENDENCIES
   jquery-rails
   mutex_m
   net-protocol
+  net-smtp
   ostruct
   puma
   rails (= 7.2.0.beta3)
